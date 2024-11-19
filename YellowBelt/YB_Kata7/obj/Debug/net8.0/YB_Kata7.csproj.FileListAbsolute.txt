@@ -1,0 +1,15 @@
+/Users/sidra/Game Programming GP24/Week6/gp24-104-csharp-oop-basics-sidrasaed/YellowBelt/YB_Kata7/bin/Debug/net8.0/YB_Kata7
+/Users/sidra/Game Programming GP24/Week6/gp24-104-csharp-oop-basics-sidrasaed/YellowBelt/YB_Kata7/bin/Debug/net8.0/YB_Kata7.deps.json
+/Users/sidra/Game Programming GP24/Week6/gp24-104-csharp-oop-basics-sidrasaed/YellowBelt/YB_Kata7/bin/Debug/net8.0/YB_Kata7.runtimeconfig.json
+/Users/sidra/Game Programming GP24/Week6/gp24-104-csharp-oop-basics-sidrasaed/YellowBelt/YB_Kata7/bin/Debug/net8.0/YB_Kata7.dll
+/Users/sidra/Game Programming GP24/Week6/gp24-104-csharp-oop-basics-sidrasaed/YellowBelt/YB_Kata7/bin/Debug/net8.0/YB_Kata7.pdb
+/Users/sidra/Game Programming GP24/Week6/gp24-104-csharp-oop-basics-sidrasaed/YellowBelt/YB_Kata7/obj/Debug/net8.0/YB_Kata7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sidra/Game Programming GP24/Week6/gp24-104-csharp-oop-basics-sidrasaed/YellowBelt/YB_Kata7/obj/Debug/net8.0/YB_Kata7.AssemblyInfoInputs.cache
+/Users/sidra/Game Programming GP24/Week6/gp24-104-csharp-oop-basics-sidrasaed/YellowBelt/YB_Kata7/obj/Debug/net8.0/YB_Kata7.AssemblyInfo.cs
+/Users/sidra/Game Programming GP24/Week6/gp24-104-csharp-oop-basics-sidrasaed/YellowBelt/YB_Kata7/obj/Debug/net8.0/YB_Kata7.csproj.CoreCompileInputs.cache
+/Users/sidra/Game Programming GP24/Week6/gp24-104-csharp-oop-basics-sidrasaed/YellowBelt/YB_Kata7/obj/Debug/net8.0/YB_Kata7.sourcelink.json
+/Users/sidra/Game Programming GP24/Week6/gp24-104-csharp-oop-basics-sidrasaed/YellowBelt/YB_Kata7/obj/Debug/net8.0/YB_Kata7.dll
+/Users/sidra/Game Programming GP24/Week6/gp24-104-csharp-oop-basics-sidrasaed/YellowBelt/YB_Kata7/obj/Debug/net8.0/refint/YB_Kata7.dll
+/Users/sidra/Game Programming GP24/Week6/gp24-104-csharp-oop-basics-sidrasaed/YellowBelt/YB_Kata7/obj/Debug/net8.0/YB_Kata7.pdb
+/Users/sidra/Game Programming GP24/Week6/gp24-104-csharp-oop-basics-sidrasaed/YellowBelt/YB_Kata7/obj/Debug/net8.0/YB_Kata7.genruntimeconfig.cache
+/Users/sidra/Game Programming GP24/Week6/gp24-104-csharp-oop-basics-sidrasaed/YellowBelt/YB_Kata7/obj/Debug/net8.0/ref/YB_Kata7.dll
